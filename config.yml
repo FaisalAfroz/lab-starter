@@ -1,14 +1,9 @@
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
-
-# Repository setup
-# The following section template information for the repository
-# This will be used when the repository is crated for each individual learner
-
+title: Introduction to GitHub
+description: If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
 template:
-  name: hello-world    # the name of the repository when it is created for the learner
-  repo: hello-world    # the name of the template repository from which to clone for the learner
+  name: github-slideshow
+  repo: caption-this-template
+  description: 'A robot powered training repository :robot:'
 
 # `before` block
 # Actions to take place after the learner registers, but before they start interacting with their repo
